@@ -19,5 +19,5 @@ As you can see, these SPSS scripts are mainly of historical interest. They
 are the first generation of tools used to preprocess Imagen Psytools data,
 they were used as the basis of the Imagen
 [_codebook_](http://www.icpsr.umich.edu/icpsrweb/NAHDAP/support/faqs/2006/01/what-is-codebook)
-that descrives BL and FU1 Psytools data, and we have copied them here as
+that describes BL and FU1 Psytools data, and we have copied them here as
 a mere reference.
