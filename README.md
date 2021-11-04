@@ -11,9 +11,9 @@ Copyright (C) 2008-2010 Delosis
   probably processed using the SQL code.
 - For FU2 and the past releases of the new Imagen v2 server, we switched
   to an unpublished Python script which is far from perfect.
-- For FU3 and upcoming releases of the new Imagen v2 server, we want to
-  re-use the
+- For FU3 and upcoming releases of the new Imagen v2 server, we use the
   [R scripts written by John Rogers for the c-VEDA project](https://github.com/delosis/psytools).
+  All tilme points have been reprocessed.
 
 As you can see, these SPSS scripts are mainly of historical interest. They
 are the first generation of tools used to preprocess Imagen Psytools data,
